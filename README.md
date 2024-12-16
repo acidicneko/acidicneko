@@ -1,7 +1,7 @@
 ## Hello there visitor! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 Hi! Ayush Yadav aka acidicneko from India here!
-I am an undergrad student with an keen interest in operating systems, kernels and programming in C/C++ and Java.
+I am an undergrad at IITJ with an keen interest in operating systems, kernels and programming in C/C++ and Java.
 I have built kernels, Discord Bots, Linux utilities and more.
 
 ### 🧑‍💻 Technologies I work with
