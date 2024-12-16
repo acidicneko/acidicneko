@@ -6,7 +6,9 @@ I have built kernels, Discord Bots, Linux utilities and more.
 
 ### 🧑‍💻 Technologies I work with
 ![Neovim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VSCODE Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![NixPkgs](https://img.shields.io/badge/NixPKGS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 [![]()]()
 
 ### Languages I know
@@ -14,6 +16,9 @@ I have built kernels, Discord Bots, Linux utilities and more.
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 
 ### Fun facts about me
 - I am an avid volleyball lover.
